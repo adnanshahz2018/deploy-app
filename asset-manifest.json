@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/adnanshahz2018/deploy-app.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/adnanshahz2018/deploy-app.git/static/js/main.3439308d.chunk.js",
+    "main.js.map": "/adnanshahz2018/deploy-app.git/static/js/main.3439308d.chunk.js.map",
+    "runtime-main.js": "/adnanshahz2018/deploy-app.git/static/js/runtime-main.26ba07b9.js",
+    "runtime-main.js.map": "/adnanshahz2018/deploy-app.git/static/js/runtime-main.26ba07b9.js.map",
+    "static/js/2.cee8863b.chunk.js": "/adnanshahz2018/deploy-app.git/static/js/2.cee8863b.chunk.js",
+    "static/js/2.cee8863b.chunk.js.map": "/adnanshahz2018/deploy-app.git/static/js/2.cee8863b.chunk.js.map",
+    "index.html": "/adnanshahz2018/deploy-app.git/index.html",
+    "precache-manifest.beb57238ff8ed318e43ed418941d87de.js": "/adnanshahz2018/deploy-app.git/precache-manifest.beb57238ff8ed318e43ed418941d87de.js",
+    "service-worker.js": "/adnanshahz2018/deploy-app.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/adnanshahz2018/deploy-app.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cee8863b.chunk.js.LICENSE.txt": "/adnanshahz2018/deploy-app.git/static/js/2.cee8863b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/adnanshahz2018/deploy-app.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26ba07b9.js",
+    "static/js/2.cee8863b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3439308d.chunk.js"
+  ]
+}
